@@ -2,10 +2,10 @@
 # https://www.linkedin.com/in/adnan-saki/
 # https://github.com/adnansaki1097
 
-# 🌸 Iris Flower Classification – CodeAlpha Internship (Task-1)
+# 🌸 Iris Flower Classification 
 
 ## 📘 Overview
-This repository contains Task-1 of my CodeAlpha Data Science Internship.  
+This repository contains Iris Flower Classification  
 The project focuses on building a machine learning classification model using the famous Iris dataset to predict the species of Iris flowers based on sepal and petal measurements.
 
 ---
@@ -70,5 +70,4 @@ A short video explaining the code, workflow, and results is posted on LinkedIn a
 
 ---
 
-## ⭐ Internship
-This project is submitted as **Task-1** for the **CodeAlpha Data Science Internship**.
+
